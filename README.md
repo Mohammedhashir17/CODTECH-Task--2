@@ -7,6 +7,7 @@ Domain: Data Analytics
 Duration: July to August 2024
 
 Objective:
+
 The objective of this project is to analyze historical stock market data and develop a predictive model using Long Short-Term Memory (LSTM) neural networks to forecast future stock prices. The goal is to leverage deep learning techniques to capture the temporal dependencies in stock price movements and provide accurate predictions.
 
 Key Activities:
